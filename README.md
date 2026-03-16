@@ -225,10 +225,13 @@ $$J_{\mathrm{cls}} = \mathrm{ACC}_S + \tau_{\mathrm{ACC}}$$
 ## Citation
 
 ```bibtex
-@inproceedings{nikzadtransferability,
-  title={Transferability Loss for Safe Model Selection under Domain Shift},
-  author={Nikzad-Langerodi, Ramin and Fonseca Diaz, Valeria},
-  booktitle={Catch, Adapt, and Operate: Monitoring ML Models Under Drift Workshop (ICLR 2026)}
+@inproceedings{
+nikzad-langerodi2026transferability,
+title={Transferability Loss for Safe Model Selection under Domain Shift},
+author={Ramin Nikzad-Langerodi and Valeria Fonseca Diaz},
+booktitle={Catch, Adapt, and Operate: Monitoring ML Models Under Drift Workshop},
+year={2026},
+url={https://openreview.net/forum?id=09D1j9dCrZ}
 }
 ```
 
