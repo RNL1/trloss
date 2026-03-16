@@ -196,7 +196,7 @@ $$\tau_{\text{MSE}} = \frac{1}{n_t} \sum_{i=1}^{n_t} \left( \hat{h}_s(\mathbf{x}
 
 **Safety Bound:** For any adapted hypothesis $\hat{h}_t$, the target risk is bounded by:
 
-$$\mathcal{R}_{\mathcal{T}}(\hat{h}_t) \;\in\; \left[\;\mathcal{R}_{\mathcal{T}}(\hat{h}_s) - \tau,\;\; \mathcal{R}_{\mathcal{T}}(\hat{h}_s) + \tau\;\right]$$
+$$\mathcal{R}_{\mathcal{T}}(\hat{h}_t) \\;\in\\; \left[\\;\mathcal{R}_{\mathcal{T}}(\hat{h}_s) - \tau,\\;\\; \mathcal{R}_{\mathcal{T}}(\hat{h}_s) + \tau\\;\right]$$
 
 Minimizing $\tau$ minimizes the radius of uncertainty around the known source performance.
 
