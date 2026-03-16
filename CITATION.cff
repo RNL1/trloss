@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Transferability Loss for Safe Model Selection under Domain Shift"
+type: software
+license: MIT
+authors:
+  - family-names: Nikzad-Langerodi
+    given-names: Ramin
+    email: ramin.nikzad-langerodi@scch.at
+    affiliation: "Software Competence Center Hagenberg (SCCH) GmbH"
+  - family-names: Fonseca Diaz
+    given-names: Valeria
+preferred-citation:
+  type: conference-paper
+  title: "Transferability Loss for Safe Model Selection under Domain Shift"
+  authors:
+    - family-names: Nikzad-Langerodi
+      given-names: Ramin
+    - family-names: Fonseca Diaz
+      given-names: Valeria
+  collection-title: "Catch, Adapt, and Operate: Monitoring ML Models Under Drift Workshop (ICLR 2026)"
+  year: 2026

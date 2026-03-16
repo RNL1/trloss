@@ -228,9 +228,15 @@ $$J_{\mathrm{cls}} = \mathrm{ACC}_S + \tau_{\mathrm{ACC}}$$
 @inproceedings{nikzadtransferability,
   title={Transferability Loss for Safe Model Selection under Domain Shift},
   author={Nikzad-Langerodi, Ramin and Fonseca Diaz, Valeria},
-  booktitle={Catch, Adapt, and Operate: Monitoring ML Models Under Drift Workshop}
+  booktitle={Catch, Adapt, and Operate: Monitoring ML Models Under Drift Workshop (ICLR 2026)}
 }
 ```
+
+---
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
