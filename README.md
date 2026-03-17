@@ -86,7 +86,7 @@ J = selection_criterion(acc_source_val, tau, task="classification")
     └── 2026-03-15/
         └── scripts/
             ├── 01_melamine_dapls_allpairs_g2.ipynb   # Melamine NIR (12 pairs)
-            ├── 02_minst_simulation.ipynb              # MNIST (clean → noisy)
+            ├── 02_mnist_simulation.ipynb              # MNIST (clean → noisy)
             └── 03_hypercamera.ipynb                   # Wheat flour (instrument transfer)
 ```
 
