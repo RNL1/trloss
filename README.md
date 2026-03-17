@@ -196,7 +196,7 @@ $$\tau_{\text{MSE}} = \frac{1}{n_t} \sum_{i=1}^{n_t} \left( \hat{h}_s(\mathbf{x}
 
 **Safety Bound:** For any adapted hypothesis $\hat{h}_t$, the target risk is bounded by:
 
-$$\mathcal{R}_{\mathcal{T}}(\hat{h}_t) \;\in\; \left[\;\mathcal{R}_{\mathcal{T}}(\hat{h}_s) - \tau,\;\; \mathcal{R}_{\mathcal{T}}(\hat{h}_s) + \tau\;\right]$$
+$$\mathcal{R}_{\mathcal{T}}(\hat{h}_t) \\;\in\\; \left[\\;\mathcal{R}_{\mathcal{T}}(\hat{h}_s) - \tau,\\;\\; \mathcal{R}_{\mathcal{T}}(\hat{h}_s) + \tau\\;\right]$$
 
 Minimizing $\tau$ minimizes the radius of uncertainty around the known source performance.
 
@@ -225,10 +225,13 @@ $$J_{\mathrm{cls}} = \mathrm{ACC}_S + \tau_{\mathrm{ACC}}$$
 ## Citation
 
 ```bibtex
-@inproceedings{nikzadtransferability,
-  title={Transferability Loss for Safe Model Selection under Domain Shift},
-  author={Nikzad-Langerodi, Ramin and Fonseca Diaz, Valeria},
-  booktitle={Catch, Adapt, and Operate: Monitoring ML Models Under Drift Workshop (ICLR 2026)}
+@inproceedings{
+nikzad-langerodi2026transferability,
+title={Transferability Loss for Safe Model Selection under Domain Shift},
+author={Ramin Nikzad-Langerodi and Valeria Fonseca Diaz},
+booktitle={Catch, Adapt, and Operate: Monitoring ML Models Under Drift Workshop},
+year={2026},
+url={https://openreview.net/forum?id=09D1j9dCrZ}
 }
 ```
 
