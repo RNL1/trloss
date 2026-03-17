@@ -116,7 +116,7 @@ jupyter lab experiments/2026-03-15/scripts/
 | # | Dataset | Task | Source -> Target | Notebook |
 |---|---|---|---|---|
 | 1 | Melamine NIR | Regression | 12 pairwise recipe transfers | ``01_melamine.ipynb`` |
-| 2 | MNIST | Classification | Original -> Noisy | ``02_minst.ipynb`` |
+| 2 | MNIST | Classification | Original -> Noisy | ``02_mnist.ipynb`` |
 | 3 | Wheat Flour | Regression | Spectrometer -> Camera | ``03_hypercamera.ipynb`` |
 
 ### Model Selection Criteria Compared
